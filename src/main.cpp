@@ -8,8 +8,6 @@
 
 //#define DEBUG 1
 
-
-
 #if defined(_DEBUG) || defined(DEBUG)
 const QQ_t BOT_QQ = 1589588851_qq;
 const string INIT_KEY = "INITKEY7A3O1a9v";
